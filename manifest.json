@@ -1,11 +1,11 @@
 {
-    "display_name": "Name Displayed in SillyTavern",
-    "loading_order": 9,
+    "display_name": "Multiple Secrets",
+    "loading_order": 10,
     "requires": [],
     "optional": [],
     "js": "index.js",
     "css": "style.css",
-    "author": "yourNameHere",
+    "author": "@zhongerxll@kakadragonn@咔咔龙",
     "version": "1.0.0",
-    "homePage": "yourUrlHere"
+    "homePage": "https://github.com/zhongerxll/st-extension-multiple-secret"
 }
