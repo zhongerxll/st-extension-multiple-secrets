@@ -21,7 +21,7 @@
                     <div id="save-secrets" class="menu_button menu_button_icon" data-i18n="Save">Save</div>
                     <div id="add-multiple-secrets-field" class="menu_button menu_button_icon" data-i18n="Add input field">Add input field</div>
                 </div>
-                    <div id="view-secrets" class="menu_button menu_button_icon" data-i18n="View hidden API keys">View hidden API keys</div>
+                    <div class="view-secrets menu_button menu_button_icon" data-i18n="View hidden API keys">View hidden API keys</div>
             </div>
         </div>
     </div>
