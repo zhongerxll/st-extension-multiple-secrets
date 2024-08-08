@@ -5,7 +5,9 @@
 # 使用方法
 
 直接在扩展界面点击安装扩展并填写该链接保存即可
-```https://github.com/zhongerxll/st-extension-multiple-secrets```
+```
+https://github.com/zhongerxll/st-extension-multiple-secrets
+```
 
 # 需要配合该服务端插件使用
 
